@@ -53,4 +53,16 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/wrong_search</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>5b312332-2a7d-4be5-8358-36d4c7e5a6eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/see_mark_delete</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a0d27df0-7f5f-4e5d-85db-e3f7483592f6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/add_mark</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
